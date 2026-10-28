@@ -1,5 +1,5 @@
 ## Hi there 👋
-My Developer Profile is azeemstack(https://github.com/settings)
+My Developer Profile is azeemstack[https://github.com/azeemstack]
 <!--
 **benazeem/benazeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
